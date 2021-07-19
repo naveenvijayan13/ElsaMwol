@@ -1,5 +1,5 @@
 ![e61323a021448e142f1b0b5aa1de9a6d](https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg)
-# ElsaMwol
+# MiaMwol
 
 # Setup
 <div align="center">
@@ -25,7 +25,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ cd MiaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -34,8 +34,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/naveenvijayan13/ElsaMwol
+$ cd MiaMwol
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -46,7 +46,7 @@ $ node bot.js
 
 
 
-ElsaMwol WhatsApp Bot 
+MiaMwol WhatsApp Bot 
 
 Subscriber My Channel More Updates Coming Soon.
 ![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
